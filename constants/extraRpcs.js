@@ -2463,6 +2463,16 @@ export const extraRpcs = {
       },
     ],
   },
+ 57753: {
+  rpcs: [
+    "https://rpc-testnet.vibrantblock.io/",
+    {
+      url: "https://rpc-testnet.vibrantblock.io/",
+      tracking: "limited",
+      trackingDetails: privacyStatement.jfc,
+     },
+   ],
+ },
   35011: {
     rpcs: [
       "https://rpc.j2o.io",
